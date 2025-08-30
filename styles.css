@@ -96,7 +96,7 @@ header {
 main {
     background-color: rgba(244, 247, 253, 1);
     width: 119.2rem;
-    height: 85.3rem;
+    eight: 85.3rem;
     display: grid;
     grid-template-columns: 26.4rem 28rem 26.4rem;
     column-gap: 2.9rem;
@@ -158,10 +158,10 @@ main {
 }
 
 
-/*  RESPONSIVENESS FOR MOBILE DEVICE WITH MAX WIDTH OF 431 STARTS*/
+/*  RESPONSIVENESS FOR MOBILE DEVICE WITH MAX WIDTH OF 431 STARTS */
 @media screen and (max-width: 431px) {
     body {
-        margin: 0;
+        margin: auto;
     }
     .navigation-bar-section {
         display: none;
@@ -204,6 +204,8 @@ main {
 
 
     main {
+        width: 32rem;
+        height: 112rem;
         display: flex;
         flex-direction: column;
         margin: 3.2rem 2.3rem;
@@ -214,5 +216,72 @@ main {
         width: 30rem;
     }
 
+    .doing-column, .done-column {
+        margin-left: 0;
+    }
+
     
 }/*  RESPONSIVENESS FOR MOBILE DEVICE WITH MAX WIDTH OF 431 ENDS*/
+
+/*  RESPONSIVENESS FOR MOBILE DEVICE WITH MAX WIDTH OF 431 STARTS */
+@media screen and (max-width: 1050px) and (min-width: 432px){
+    .navigation-bar-section {
+        width: 20rem;
+    }
+
+    .logo-name {
+        margin: 2.278rem auto 1.8rem 1.4rem;
+    }
+
+    .nav-bar {
+        width: 20rem;
+    }
+
+    .nav-bar h4 {
+        margin: 1.6rem 0 0.424rem 1.4rem;
+    }
+
+    .bt-launch {
+        width: 18rem;
+        padding-left: 3rem;
+    }
+
+    header {
+        width: 55rem;
+        height: 6.7rem;
+    }
+
+    .header-name {
+        padding: 0;
+        margin: 2.2rem 0 0 2.4rem;
+    }
+
+    .bt-add-task {
+        width: 13rem;
+        height: 2.8rem;
+        margin: 2rem 4.1rem 0 0;
+    }
+
+    main {
+        width: 119.2rem;
+        display: grid;
+        grid-template-columns: 23rem 23rem;
+        
+        column-gap: 2.9rem;
+    }
+
+    .to-do-list {
+        display: flex;
+        flex-wrap: wrap;
+        grid-column: 1/span 2;
+
+    }
+
+    .list {
+        width: 23rem;
+    }
+
+
+
+}/*  RESPONSIVENESS FOR MOBILE DEVICE WITH MAX WIDTH OF 431 ENDS*/
+
