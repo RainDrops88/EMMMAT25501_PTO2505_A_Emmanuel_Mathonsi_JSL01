@@ -77,6 +77,14 @@ header {
     margin: 0;
 }
 
+.dropdown {
+    display: none;
+   
+}
+select {
+    border: none;
+}
+
 .bt-add-task {
     background-color: rgba(99, 95, 199, 1);
     width: 16.4rem;
@@ -180,9 +188,18 @@ main {
     }
 
     .header-name {
+        display: flex;
         font-size: 1.5rem;
         padding: 0;
-        margin: 2.5rem 9rem 2rem 0;
+        margin: 2.5rem 6rem 2rem 0;
+    }
+
+    .dropdown {
+        display: contents;
+    }
+
+    select {
+        margin-left: 1rem;
     }
 
     .small-display {
@@ -199,7 +216,7 @@ main {
     .bt-add-task {
         width: 3.3rem;
         height: 3.3rem;
-        margin: 1.6rem 2.9rem 0 6.1rem;
+        margin: 1.6rem 2.9rem 0 5.1rem;
     }
     .horizontal-line {
         display: none;
