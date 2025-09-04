@@ -21,4 +21,11 @@ This project involves developing a **fully responsive Kanban board**. The board 
 - Include **titles on all task cards** to provide clear task descriptions.
 - Implement a **static side panel with** the correct **icons, text, and branding elements** for professional appearance.
 
-## 
+## Outcome Images
+
+
+![Desktop view](./example-images/Desktop_view.png)
+
+![Tablet view](./example-images/Tablet_view.png)
+
+![Mobile view](./example-images/Mobile_view.png)
