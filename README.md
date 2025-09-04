@@ -4,13 +4,15 @@
 ## Overview
 
 This project involves developing a **fully responsive Kanban board**. The board should be structured into multiple columns and include task cards, a static side panel, and a well-defined theme to ensure a **professional and polished user experience.**
----
+
+
 
 ## Tools
 
-- Text editor like VS Code.
-- HTML for the structure.
-- CSS for styling.
+- For commiting and saving ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+- Creating the strucrue ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
+- For styling the layout ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+-  To create the README file ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white)
 
 ## Key Objectives
 
@@ -40,7 +42,7 @@ This project involves developing a **fully responsive Kanban board**. The board 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RainDrops88)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mathonsi-300b33308/)  
 📧 Email: [07942jerry@gmail.com]
----
+
 
 ## GitHub Stats
 
