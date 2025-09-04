@@ -1,9 +1,10 @@
 # Kanban Board UI Implementation
---
+
 
 ## Overview
 
 This project involves developing a **fully responsive Kanban board**. The board should be structured into multiple columns and include task cards, a static side panel, and a well-defined theme to ensure a **professional and polished user experience.**
+---
 
 ## Tools
 
@@ -21,11 +22,17 @@ This project involves developing a **fully responsive Kanban board**. The board 
 - Include **titles on all task cards** to provide clear task descriptions.
 - Implement a **static side panel with** the correct **icons, text, and branding elements** for professional appearance.
 
+
 ## Outcome Images
 
-
+### Desktop View
 ![Desktop view](./example-images/Desktop_view.png)
-
+---
+### Tablet View
 ![Tablet view](./example-images/Tablet_view.png)
-
+---
+### Mobile View
 ![Mobile view](./example-images/Mobile_view.png)
+---
+
+## 
